@@ -1,0 +1,120 @@
+﻿@model mongodb_mvc.Models.Sale
+@{
+    ViewBag.Title = "Index";
+}
+
+
+<head>
+    <link href="~/css/bootstrap.css" rel="stylesheet" />
+</head>
+
+<body>
+    <div id="throbber" style="display:none; min-height:120px;"></div>
+    <div id="noty-holder"></div>
+    <div id="wrapper">
+        <!-- Navigation -->
+
+        <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header" style="text-align:center">
+           
+                    <h3>PRODUCT MANAGEMENT SYSTEM</h3>
+                
+            </div>
+            <!-- Top Menu Items -->
+            <ul class="nav navbar-right top-nav">
+                <li>
+                </li>
+                <li class="dropdown">
+
+                </li>
+            </ul>
+            <!-- Sidebar Menu Items - These collapse to the responsive navigation menu on small screens -->
+            <div class="collapse navbar-collapse navbar-ex1-collapse">
+                <ul class="nav navbar-nav side-nav">
+                    <li><a href="@Url.Action("Index", "Home")"><i class="fa fa-fw fa-user-plus"></i>Home <i class="fa fa-fw fa-angle-left pull-right"></i></a></li>
+                    <li><a href="@Url.Action("List", "Product")"><i class="fa fa-fw fa-user-plus"></i>Product List <i class="fa fa-fw fa-angle-left pull-right"></i></a></li>
+                    <li>
+                        <a href="@Url.Action("SaleList","Sale")"><i class="fa fa-fw fa-paper-plane-o"></i> Sale List</a>
+                    </li>
+                    <li><a href="@Url.Action("Create", "Product")"><i class="fa fa-fw fa fa-question-circle"></i> Add New Product</a></li>                  
+                    <li><a href="@Url.Action("Index","Sale")"><i class="fa fa-fw fa fa-question-circle"></i> Chart</a></li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </nav>
+        <div id="page-wrapper">
+            <div class="container-fluid">
+                <!-- Page Heading -->
+                <div class="row" id="main">
+                    <div class="col-sm-12 col-md-12 well" id="content">
+                       
+                        <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+
+                        <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+
+                        <script type="text/javascript">
+                            google.load("visualization", "1", { packages: ["corechart"] });
+                        </script>
+                        
+                        <script type="text/javascript">
+
+                            $(function () {
+                                $.ajax({
+                                    type: 'POST',
+                                    dataType: 'json',
+                                    contentType: 'application/json',
+                                    url: '@Url.Action("SaleCounts")',
+                                    data: '{}',
+                                    success: function (chartsdata) {
+
+                                        // Callback that creates and populates a data table,
+                                        // instantiates the pie chart, passes in the data and
+                                        // draws it.
+
+                                        var data = new google.visualization.DataTable();
+
+                                        data.addColumn('string', 'month');
+                                        data.addColumn('number', 'Sale count');
+
+                                        for (var i = 0; i < chartsdata.length; i++) {
+                                            data.addRow([chartsdata[i].month, chartsdata[i].count]);
+                                        }
+
+                                        // Instantiate and draw our chart, passing in some options
+                                        var chart = new google.visualization.ColumnChart(document.getElementById('chartdiv'));
+
+                                        chart.draw(data,
+                                          {
+                                              title: "Sale-Month Chart ",
+                                              position: "top",
+                                              fontsize: "18px",
+                                              chartArea: { width: '70%' }                                              
+                                          });
+                                    },
+                                    error: function () {
+                                        alert("Error loading data! Please try again.");
+                                    }
+                                });
+                            })
+
+                        </script>
+
+                        <div id="chartdiv" style="width: 700px; height: 450px;">
+                        </div>
+
+                    </div>
+                </div>
+                <!-- /.row -->
+            </div>
+            <!-- /.container-fluid -->
+        </div>
+        <!-- /#page-wrapper -->
+    </div><!-- /#wrapper -->
+
+</body>
+
+<script src="~/js/bootstrap.js"></script>
+
+<script src="~/js/bootstrap.min.js"></script>
+

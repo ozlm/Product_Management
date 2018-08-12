@@ -1,0 +1,114 @@
+﻿@model mongodb_mvc.Models.Product
+@{
+    ViewBag.Title = "Delete";
+}
+
+
+
+<head>
+    <link href="~/css/bootstrap.css" rel="stylesheet" />
+</head>
+
+
+<body>
+    <div id="throbber" style="display:none; min-height:120px;"></div>
+    <div id="noty-holder"></div>
+    <div id="wrapper">
+        <!-- Navigation -->
+
+        <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <div class="center-block">
+                    <h2>PRODUCT MANAGEMENT SYSTEM</h2>
+                </div>
+            </div>
+            <!-- Top Menu Items -->
+            <ul class="nav navbar-right top-nav">
+                <li>
+                </li>
+                <li class="dropdown">
+
+                </li>
+            </ul>
+            <!-- Sidebar Menu Items - These collapse to the responsive navigation menu on small screens -->
+            <div class="collapse navbar-collapse navbar-ex1-collapse">
+                <ul class="nav navbar-nav side-nav">
+                    <li><a href="@Url.Action("Index", "Home")"><i class="fa fa-fw fa-user-plus"></i>Home <i class="fa fa-fw fa-angle-left pull-right"></i></a></li>
+                    <li><a href="@Url.Action("List", "Product")"><i class="fa fa-fw fa-user-plus"></i>Product List <i class="fa fa-fw fa-angle-left pull-right"></i></a></li>
+                    <li>
+                        <a href="@Url.Action("SaleList","Sale")"><i class="fa fa-fw fa-paper-plane-o"></i> Sale List</a>
+                    </li>
+                    <li><a href="@Url.Action("Create", "Product")"><i class="fa fa-fw fa fa-question-circle"></i> Add New Product</a></li>
+                   
+                    <li><a href="@Url.Action("Index","Sale")"><i class="fa fa-fw fa fa-question-circle"></i> Chart</a></li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </nav>
+        <div id="page-wrapper">
+            <div class="container-fluid">
+                <!-- Page Heading -->
+                <div class="row" id="main">
+                    <div class="col-sm-12 col-md-12 well" id="content">
+                      
+                        @using (Html.BeginForm())
+                        {
+                            @*@Html.HiddenFor(x => x._id)
+                            @:SubeKodu @Html.DisplayFor(x => x.branch_number) <br />
+                            @:UrunKodu @Html.DisplayFor(x => x.product_code) <br />
+                            @:Markasi @Html.DisplayFor(x => x.brand) <br />
+                            @:UrunCinsi @Html.DisplayFor(x => x.product_type) <br />
+                            @:GelisFiyat @Html.DisplayFor(x => x.purchase_price) <br />
+                            @:AlimTarih @Html.DisplayFor(x => x.purchase_date) <br />
+                            @:Stock @Html.DisplayFor(x => x.stock) <br />*@
+                            
+                            <center>
+                                <table>
+                                    <tr>
+                                        <td>Branch Number</td>
+                                        <td>@Html.EditorFor(x => x.branch_number)</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Product Code</td>
+                                        <td>@Html.EditorFor(x => x.product_code)</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Brand</td>
+                                        <td>@Html.EditorFor(x => x.brand)</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Product Type</td>
+                                        <td>@Html.EditorFor(x => x.product_type)</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Purchase Price</td>
+                                        <td>@Html.EditorFor(x => x.purchase_price)</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Purchase Date</td>
+                                        <td>@Html.EditorFor(x => x.purchase_date)</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Stock</td>
+                                        <td>@Html.EditorFor(x => x.stock)</td>
+                                    </tr>
+                                </table>
+                        <br />
+                            <input type="submit" name="btnSubmit" value="Delete"  class="btn btn-primary"/>
+                                </center>
+                        }
+                    </div>
+                </div>
+                <!-- /.row -->
+            </div>
+            <!-- /.container-fluid -->
+        </div>
+        <!-- /#page-wrapper -->
+    </div><!-- /#wrapper -->
+
+</body>
+
+<script src="~/js/bootstrap.js"></script>
+
+<script src="~/js/bootstrap.min.js"></script>

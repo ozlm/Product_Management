@@ -1,0 +1,245 @@
+c:\users\asus\documents\visual studio 2013\Projects\mongodb_mvc\mongodb_mvc\bin\mongodb_mvc.dll.config
+c:\users\asus\documents\visual studio 2013\Projects\mongodb_mvc\mongodb_mvc\bin\mongodb_mvc.dll
+c:\users\asus\documents\visual studio 2013\Projects\mongodb_mvc\mongodb_mvc\bin\mongodb_mvc.pdb
+c:\users\asus\documents\visual studio 2013\Projects\mongodb_mvc\mongodb_mvc\bin\Antlr3.Runtime.dll
+c:\users\asus\documents\visual studio 2013\Projects\mongodb_mvc\mongodb_mvc\bin\EntityFramework.dll
+c:\users\asus\documents\visual studio 2013\Projects\mongodb_mvc\mongodb_mvc\bin\Microsoft.Web.Infrastructure.dll
+c:\users\asus\documents\visual studio 2013\Projects\mongodb_mvc\mongodb_mvc\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\asus\documents\visual studio 2013\Projects\mongodb_mvc\mongodb_mvc\bin\MongoDB.Bson.dll
+c:\users\asus\documents\visual studio 2013\Projects\mongodb_mvc\mongodb_mvc\bin\MongoDB.Driver.Core.dll
+c:\users\asus\documents\visual studio 2013\Projects\mongodb_mvc\mongodb_mvc\bin\MongoDB.Driver.dll
+c:\users\asus\documents\visual studio 2013\Projects\mongodb_mvc\mongodb_mvc\bin\MongoDB.Driver.Legacy.dll
+c:\users\asus\documents\visual studio 2013\Projects\mongodb_mvc\mongodb_mvc\bin\Newtonsoft.Json.dll
+c:\users\asus\documents\visual studio 2013\Projects\mongodb_mvc\mongodb_mvc\bin\System.Net.Http.Formatting.dll
+c:\users\asus\documents\visual studio 2013\Projects\mongodb_mvc\mongodb_mvc\bin\System.Web.Http.dll
+c:\users\asus\documents\visual studio 2013\Projects\mongodb_mvc\mongodb_mvc\bin\System.Web.Http.WebHost.dll
+c:\users\asus\documents\visual studio 2013\Projects\mongodb_mvc\mongodb_mvc\bin\System.Web.Mvc.dll
+c:\users\asus\documents\visual studio 2013\Projects\mongodb_mvc\mongodb_mvc\bin\System.Web.Optimization.dll
+c:\users\asus\documents\visual studio 2013\Projects\mongodb_mvc\mongodb_mvc\bin\System.Web.Providers.dll
+c:\users\asus\documents\visual studio 2013\Projects\mongodb_mvc\mongodb_mvc\bin\System.Web.Razor.dll
+c:\users\asus\documents\visual studio 2013\Projects\mongodb_mvc\mongodb_mvc\bin\System.Web.WebPages.Deployment.dll
+c:\users\asus\documents\visual studio 2013\Projects\mongodb_mvc\mongodb_mvc\bin\System.Web.WebPages.dll
+c:\users\asus\documents\visual studio 2013\Projects\mongodb_mvc\mongodb_mvc\bin\System.Web.WebPages.Razor.dll
+c:\users\asus\documents\visual studio 2013\Projects\mongodb_mvc\mongodb_mvc\bin\WebGrease.dll
+c:\users\asus\documents\visual studio 2013\Projects\mongodb_mvc\mongodb_mvc\bin\MongoDB.Bson.xml
+c:\users\asus\documents\visual studio 2013\Projects\mongodb_mvc\mongodb_mvc\bin\MongoDB.Driver.xml
+c:\users\asus\documents\visual studio 2013\Projects\mongodb_mvc\mongodb_mvc\bin\MongoDB.Driver.Legacy.xml
+c:\users\asus\documents\visual studio 2013\Projects\mongodb_mvc\mongodb_mvc\bin\EntityFramework.xml
+c:\users\asus\documents\visual studio 2013\Projects\mongodb_mvc\mongodb_mvc\bin\Newtonsoft.Json.xml
+c:\users\asus\documents\visual studio 2013\Projects\mongodb_mvc\mongodb_mvc\bin\System.Net.Http.Formatting.xml
+c:\users\asus\documents\visual studio 2013\Projects\mongodb_mvc\mongodb_mvc\bin\System.Web.Http.xml
+c:\users\asus\documents\visual studio 2013\Projects\mongodb_mvc\mongodb_mvc\bin\System.Web.Http.WebHost.xml
+c:\users\asus\documents\visual studio 2013\Projects\mongodb_mvc\mongodb_mvc\bin\System.Web.Mvc.xml
+c:\users\asus\documents\visual studio 2013\Projects\mongodb_mvc\mongodb_mvc\bin\System.Web.Razor.xml
+c:\users\asus\documents\visual studio 2013\Projects\mongodb_mvc\mongodb_mvc\bin\System.Web.WebPages.xml
+c:\users\asus\documents\visual studio 2013\Projects\mongodb_mvc\mongodb_mvc\bin\System.Web.WebPages.Deployment.xml
+c:\users\asus\documents\visual studio 2013\Projects\mongodb_mvc\mongodb_mvc\bin\System.Web.WebPages.Razor.xml
+c:\users\asus\documents\visual studio 2013\Projects\mongodb_mvc\mongodb_mvc\obj\Debug\mongodb_mvc.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\mongodb_mvc\mongodb_mvc\obj\Debug\mongodb_mvc.dll
+c:\users\asus\documents\visual studio 2013\Projects\mongodb_mvc\mongodb_mvc\obj\Debug\mongodb_mvc.pdb
+C:\Users\özlem\Desktop\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\mongodb_mvc.dll.config
+C:\Users\özlem\Desktop\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\mongodb_mvc.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\mongodb_mvc.pdb
+C:\Users\özlem\Desktop\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\Antlr3.Runtime.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\EntityFramework.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\MongoDB.Bson.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\MongoDB.Driver.Core.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\MongoDB.Driver.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\MongoDB.Driver.Legacy.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\Newtonsoft.Json.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Net.Http.Formatting.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.Http.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.Http.WebHost.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.Mvc.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.Optimization.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.Providers.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.Razor.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.WebPages.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\WebGrease.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\MongoDB.Bson.xml
+C:\Users\özlem\Desktop\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\MongoDB.Driver.xml
+C:\Users\özlem\Desktop\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\MongoDB.Driver.Legacy.xml
+C:\Users\özlem\Desktop\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\EntityFramework.xml
+C:\Users\özlem\Desktop\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\Newtonsoft.Json.xml
+C:\Users\özlem\Desktop\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Net.Http.Formatting.xml
+C:\Users\özlem\Desktop\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.Http.xml
+C:\Users\özlem\Desktop\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.Http.WebHost.xml
+C:\Users\özlem\Desktop\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.Mvc.xml
+C:\Users\özlem\Desktop\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.Razor.xml
+C:\Users\özlem\Desktop\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.WebPages.xml
+C:\Users\özlem\Desktop\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\özlem\Desktop\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\özlem\Desktop\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\obj\Debug\mongodb_mvc.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\obj\Debug\mongodb_mvc.pdb
+C:\Users\özlem\Desktop\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\ClosedXML.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\DocumentFormat.OpenXml.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\Spire.Common.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\Spire.License.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\Spire.Pdf.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\Spire.XLS.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\mongodb_mvc.dll.config
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\mongodb_mvc.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\mongodb_mvc.pdb
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\Antlr3.Runtime.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\ClosedXML.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\DocumentFormat.OpenXml.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\EntityFramework.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\MongoDB.Bson.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\MongoDB.Driver.Core.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\MongoDB.Driver.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\MongoDB.Driver.Legacy.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\Newtonsoft.Json.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\Spire.Common.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\Spire.License.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\Spire.Pdf.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\Spire.XLS.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Net.Http.Formatting.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.Http.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.Http.WebHost.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.Mvc.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.Optimization.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.Providers.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.Razor.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.WebPages.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\WebGrease.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\MongoDB.Bson.xml
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\MongoDB.Driver.xml
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\MongoDB.Driver.Legacy.xml
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\EntityFramework.xml
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\Newtonsoft.Json.xml
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Net.Http.Formatting.xml
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.Http.xml
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.Http.WebHost.xml
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.Mvc.xml
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.Razor.xml
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.WebPages.xml
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\obj\Debug\mongodb_mvc.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\obj\Debug\mongodb_mvc.pdb
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\obj\Debug\mongodb_mvc.csprojResolveAssemblyReference.cache
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\mongodb_mvc.dll.config
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\mongodb_mvc.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\mongodb_mvc.pdb
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\Antlr3.Runtime.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\ClosedXML.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\DocumentFormat.OpenXml.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\EntityFramework.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\MongoDB.Bson.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\MongoDB.Driver.Core.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\MongoDB.Driver.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\MongoDB.Driver.Legacy.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\Newtonsoft.Json.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\Spire.Common.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\Spire.License.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\Spire.Pdf.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\Spire.XLS.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.Mvc.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.Optimization.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.Providers.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.Razor.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.WebPages.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\WebGrease.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\MongoDB.Bson.xml
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\MongoDB.Driver.xml
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\MongoDB.Driver.Legacy.xml
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\EntityFramework.xml
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\Newtonsoft.Json.xml
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.Mvc.xml
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.Razor.xml
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.WebPages.xml
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\obj\Debug\mongodb_mvc.csprojResolveAssemblyReference.cache
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\obj\Debug\mongodb_mvc.dll
+C:\Users\özlem\Desktop\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\obj\Debug\mongodb_mvc.pdb
+C:\Users\özlem\Desktop\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\mongodb_mvc.dll.config
+C:\Users\özlem\Desktop\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\mongodb_mvc.dll
+C:\Users\özlem\Desktop\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\mongodb_mvc.pdb
+C:\Users\özlem\Desktop\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\Antlr3.Runtime.dll
+C:\Users\özlem\Desktop\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\ClosedXML.dll
+C:\Users\özlem\Desktop\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\DocumentFormat.OpenXml.dll
+C:\Users\özlem\Desktop\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\EntityFramework.dll
+C:\Users\özlem\Desktop\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\özlem\Desktop\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\özlem\Desktop\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\MongoDB.Bson.dll
+C:\Users\özlem\Desktop\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\MongoDB.Driver.Core.dll
+C:\Users\özlem\Desktop\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\MongoDB.Driver.dll
+C:\Users\özlem\Desktop\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\MongoDB.Driver.Legacy.dll
+C:\Users\özlem\Desktop\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\Newtonsoft.Json.dll
+C:\Users\özlem\Desktop\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\Spire.Common.dll
+C:\Users\özlem\Desktop\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\Spire.License.dll
+C:\Users\özlem\Desktop\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\Spire.Pdf.dll
+C:\Users\özlem\Desktop\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\Spire.XLS.dll
+C:\Users\özlem\Desktop\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.Mvc.dll
+C:\Users\özlem\Desktop\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.Optimization.dll
+C:\Users\özlem\Desktop\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.Providers.dll
+C:\Users\özlem\Desktop\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.Razor.dll
+C:\Users\özlem\Desktop\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\özlem\Desktop\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.WebPages.dll
+C:\Users\özlem\Desktop\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\özlem\Desktop\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\WebGrease.dll
+C:\Users\özlem\Desktop\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\MongoDB.Bson.xml
+C:\Users\özlem\Desktop\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\MongoDB.Driver.xml
+C:\Users\özlem\Desktop\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\MongoDB.Driver.Legacy.xml
+C:\Users\özlem\Desktop\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\EntityFramework.xml
+C:\Users\özlem\Desktop\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\Newtonsoft.Json.xml
+C:\Users\özlem\Desktop\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.Mvc.xml
+C:\Users\özlem\Desktop\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.Razor.xml
+C:\Users\özlem\Desktop\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.WebPages.xml
+C:\Users\özlem\Desktop\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\özlem\Desktop\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\özlem\Desktop\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\obj\Debug\mongodb_mvc.csprojResolveAssemblyReference.cache
+C:\Users\özlem\Desktop\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\obj\Debug\mongodb_mvc.dll
+C:\Users\özlem\Desktop\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\obj\Debug\mongodb_mvc.pdb
+G:\Masaüstü\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\mongodb_mvc.dll.config
+G:\Masaüstü\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\mongodb_mvc.dll
+G:\Masaüstü\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\mongodb_mvc.pdb
+G:\Masaüstü\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\Antlr3.Runtime.dll
+G:\Masaüstü\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\ClosedXML.dll
+G:\Masaüstü\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\DocumentFormat.OpenXml.dll
+G:\Masaüstü\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\EntityFramework.dll
+G:\Masaüstü\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\Microsoft.Web.Infrastructure.dll
+G:\Masaüstü\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+G:\Masaüstü\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\MongoDB.Bson.dll
+G:\Masaüstü\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\MongoDB.Driver.Core.dll
+G:\Masaüstü\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\MongoDB.Driver.dll
+G:\Masaüstü\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\MongoDB.Driver.Legacy.dll
+G:\Masaüstü\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\Newtonsoft.Json.dll
+G:\Masaüstü\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\Spire.Common.dll
+G:\Masaüstü\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\Spire.License.dll
+G:\Masaüstü\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\Spire.Pdf.dll
+G:\Masaüstü\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\Spire.XLS.dll
+G:\Masaüstü\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.Mvc.dll
+G:\Masaüstü\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.Optimization.dll
+G:\Masaüstü\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.Providers.dll
+G:\Masaüstü\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.Razor.dll
+G:\Masaüstü\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.WebPages.Deployment.dll
+G:\Masaüstü\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.WebPages.dll
+G:\Masaüstü\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.WebPages.Razor.dll
+G:\Masaüstü\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\WebGrease.dll
+G:\Masaüstü\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\MongoDB.Bson.xml
+G:\Masaüstü\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\MongoDB.Driver.xml
+G:\Masaüstü\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\MongoDB.Driver.Legacy.xml
+G:\Masaüstü\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\EntityFramework.xml
+G:\Masaüstü\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\Newtonsoft.Json.xml
+G:\Masaüstü\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.Mvc.xml
+G:\Masaüstü\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.Razor.xml
+G:\Masaüstü\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.WebPages.xml
+G:\Masaüstü\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.WebPages.Deployment.xml
+G:\Masaüstü\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\bin\System.Web.WebPages.Razor.xml
+G:\Masaüstü\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\obj\Debug\mongodb_mvc.csprojResolveAssemblyReference.cache
+G:\Masaüstü\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\obj\Debug\mongodb_mvc.dll
+G:\Masaüstü\Staj\Yeni klasör (2)\Yeni klasör (2)\Yeni klasör (2)\mongodb_mvc\mongodb_mvc\obj\Debug\mongodb_mvc.pdb

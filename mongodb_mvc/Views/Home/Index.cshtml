@@ -1,0 +1,78 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+<head>
+        <link href="~/css/bootstrap.css" rel="stylesheet" />
+    </head>
+
+    <body>
+        <div id="throbber" style="display:none; min-height:120px;"></div>
+        <div id="noty-holder"></div>
+        <div id="wrapper">
+            <!-- Navigation -->
+
+            <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header">
+                
+                        <h2>PRODUCT MANAGEMENT SYSTEM</h2>
+                   
+                </div>
+                <!-- Top Menu Items -->
+                <ul class="nav navbar-right top-nav">
+                    <li>
+                       </li>
+                <li class="dropdown">
+
+                        </li>
+                    </ul>
+                <!-- Sidebar Menu Items - These collapse to the responsive navigation menu on small screens -->
+                <div class="collapse navbar-collapse navbar-ex1-collapse">
+                    <ul class="nav navbar-nav side-nav">
+                        <li><a href="@Url.Action("Index", "Home")"><i class="fa fa-fw fa-user-plus"></i>Home <i class="fa fa-fw fa-angle-left pull-right"></i></a></li>
+                        <li><a href="@Url.Action("List", "Product")"><i class="fa fa-fw fa-user-plus"></i>Product List <i class="fa fa-fw fa-angle-left pull-right"></i></a></li>
+                        <li>
+                            <a href="@Url.Action("SaleList","Sale")"><i class="fa fa-fw fa-paper-plane-o"></i> Sale List</a>
+                        </li>
+                        <li><a href="@Url.Action("Create", "Product")"><i class="fa fa-fw fa fa-question-circle"></i> Add New Product</a></li>
+                       
+                        <li><a href="@Url.Action("Index","Sale")"><i class="fa fa-fw fa fa-question-circle"></i> Chart</a></li>
+                    </ul>
+                </div>
+                <!-- /.navbar-collapse -->
+            </nav>
+            <div id="page-wrapper">
+                <div class="container-fluid">
+                    <!-- Page Heading -->
+                    <div class="row" id="main">
+                        <div class="col-sm-12 col-md-12 well" id="content">
+                            @*@using (Html.BeginForm())
+                            {
+                                <table>
+                                    <tr>
+                                        <td>@Html.Label("Product Search")</td>
+                                        <td>@Html.TextBox("txtproduct") </td>
+                                        <td><a href="@Url.Action("Search", "Product")" class="btn btn-warning">Search</a> </td>
+                                    </tr>
+                                </table>
+                            }*@
+                        </div>
+                    </div>
+                    <!-- /.row -->
+                </div>
+                <!-- /.container-fluid -->
+            </div>
+            <!-- /#page-wrapper -->
+        </div><!-- /#wrapper -->
+
+    </body>
+
+    <script src="~/js/bootstrap.js"></script>
+
+    <script src="~/js/bootstrap.min.js"></script>
+
+
+
+
+
